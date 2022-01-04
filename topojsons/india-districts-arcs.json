@@ -69353,5 +69353,58 @@
         -69
       ]
     ]
-  ]
+  ],
+  "objects": {
+    "IND_adm2": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [
+            [
+              1590,
+              1591,
+              -1167
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "ISO": "IND",
+            "NAME_0": "India",
+            "ID_1": 1317,
+            "NAME_1": "Tamil Nadu",
+            "ID_2": 16179,
+            "NAME_2": "Kanniyakumari",
+            "VARNAME_2": "",
+            "HASC_2": "IN.TN.KK",
+            "TYPE_2": "District",
+            "ENGTYPE_2": "District"
+          }
+        },
+        {
+          "arcs": [
+            [
+              0,
+              1,
+              2,
+              3,
+              4
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "ISO": "IND",
+            "NAME_0": "India",
+            "ID_1": 1289,
+            "NAME_1": "Arunachal Pradesh",
+            "ID_2": 15745,
+            "NAME_2": "Papum Pare",
+            "VARNAME_2": "",
+            "HASC_2": "IN.AR.PA",
+            "TYPE_2": "District",
+            "ENGTYPE_2": "District"
+          }
+        }
+      ]
+    }
+  }
 }
