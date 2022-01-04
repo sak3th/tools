@@ -69383,23 +69383,24 @@
         {
           "arcs": [
             [
-              0,
-              1,
-              2,
-              3,
-              4
+              1603,
+              -1561,
+              -1590,
+              1604,
+              -549,
+              -606
             ]
           ],
           "type": "Polygon",
           "properties": {
             "ISO": "IND",
             "NAME_0": "India",
-            "ID_1": 1289,
-            "NAME_1": "Arunachal Pradesh",
-            "ID_2": 15745,
-            "NAME_2": "Papum Pare",
+            "ID_1": 1317,
+            "NAME_1": "Tamil Nadu",
+            "ID_2": 16192,
+            "NAME_2": "Thiruvallur",
             "VARNAME_2": "",
-            "HASC_2": "IN.AR.PA",
+            "HASC_2": "IN.TN.TL",
             "TYPE_2": "District",
             "ENGTYPE_2": "District"
           }
